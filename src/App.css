@@ -1,0 +1,8 @@
+.grid1111 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.grid23 {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+}
